@@ -1,0 +1,692 @@
+[
+ {
+   "Month": "2010-07",
+   "NumberOfCrimes": 12461,
+   "AvCrimes": 17.2
+ },
+ {
+   "Month": "2010-08",
+   "NumberOfCrimes": 341203,
+   "AvCrimes": 16.6
+ },
+ {
+   "Month": "2010-09",
+   "NumberOfCrimes": 540859,
+   "AvCrimes": 15.2
+ },
+ {
+   "Month": "2010-10",
+   "NumberOfCrimes": 544412,
+   "AvCrimes": 15.2
+ },
+ {
+   "Month": "2010-11",
+   "NumberOfCrimes": 456304,
+   "AvCrimes": 13.8
+ },
+ {
+   "Month": "2010-12",
+   "NumberOfCrimes": 285574,
+   "AvCrimes": 16.8
+ },
+ {
+   "Month": "2011-01",
+   "NumberOfCrimes": 403178,
+   "AvCrimes": 16.1
+ },
+ {
+   "Month": "2011-02",
+   "NumberOfCrimes": 398292,
+   "AvCrimes": 17.2
+ },
+ {
+   "Month": "2011-03",
+   "NumberOfCrimes": 556155,
+   "AvCrimes": 20
+ },
+ {
+   "Month": "2011-04",
+   "NumberOfCrimes": 673639,
+   "AvCrimes": 26.9
+ },
+ {
+   "Month": "2011-05",
+   "NumberOfCrimes": 722072,
+   "AvCrimes": 15
+ },
+ {
+   "Month": "2011-06",
+   "NumberOfCrimes": 638717,
+   "AvCrimes": 16.4
+ },
+ {
+   "Month": "2011-07",
+   "NumberOfCrimes": 708454,
+   "AvCrimes": 15.6
+ },
+ {
+   "Month": "2011-08",
+   "NumberOfCrimes": 642440,
+   "AvCrimes": 17.6
+ },
+ {
+   "Month": "2011-09",
+   "NumberOfCrimes": 684780,
+   "AvCrimes": 17.3
+ },
+ {
+   "Month": "2011-10",
+   "NumberOfCrimes": 708802,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2011-11",
+   "NumberOfCrimes": 597191,
+   "AvCrimes": 15.6
+ },
+ {
+   "Month": "2011-12",
+   "NumberOfCrimes": 408729,
+   "AvCrimes": 19.4
+ },
+ {
+   "Month": "2012-01",
+   "NumberOfCrimes": 494325,
+   "AvCrimes": 16.9
+ },
+ {
+   "Month": "2012-02",
+   "NumberOfCrimes": 481826,
+   "AvCrimes": 17.3
+ },
+ {
+   "Month": "2012-03",
+   "NumberOfCrimes": 818209,
+   "AvCrimes": 21.2
+ },
+ {
+   "Month": "2012-04",
+   "NumberOfCrimes": 649473,
+   "AvCrimes": 21.4
+ },
+ {
+   "Month": "2012-05",
+   "NumberOfCrimes": 926952,
+   "AvCrimes": 22.1
+ },
+ {
+   "Month": "2012-06",
+   "NumberOfCrimes": 858805,
+   "AvCrimes": 22.1
+ },
+ {
+   "Month": "2012-07",
+   "NumberOfCrimes": 1014174,
+   "AvCrimes": 22.9
+ },
+ {
+   "Month": "2012-08",
+   "NumberOfCrimes": 1163171,
+   "AvCrimes": 23.2
+ },
+ {
+   "Month": "2012-09",
+   "NumberOfCrimes": 1015145,
+   "AvCrimes": 20
+ },
+ {
+   "Month": "2012-10",
+   "NumberOfCrimes": 856866,
+   "AvCrimes": 18
+ },
+ {
+   "Month": "2012-11",
+   "NumberOfCrimes": 726893,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2012-12",
+   "NumberOfCrimes": 513444,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2013-01",
+   "NumberOfCrimes": 565589,
+   "AvCrimes": 16.7
+ },
+ {
+   "Month": "2013-02",
+   "NumberOfCrimes": 516588,
+   "AvCrimes": 16
+ },
+ {
+   "Month": "2013-03",
+   "NumberOfCrimes": 504611,
+   "AvCrimes": 16.2
+ },
+ {
+   "Month": "2013-04",
+   "NumberOfCrimes": 658230,
+   "AvCrimes": 20.1
+ },
+ {
+   "Month": "2013-05",
+   "NumberOfCrimes": 749934,
+   "AvCrimes": 21.7
+ },
+ {
+   "Month": "2013-06",
+   "NumberOfCrimes": 813631,
+   "AvCrimes": 22.3
+ },
+ {
+   "Month": "2013-07",
+   "NumberOfCrimes": 998755,
+   "AvCrimes": 25.4
+ },
+ {
+   "Month": "2013-08",
+   "NumberOfCrimes": 904155,
+   "AvCrimes": 25.5
+ },
+ {
+   "Month": "2013-09",
+   "NumberOfCrimes": 701724,
+   "AvCrimes": 19.1
+ },
+ {
+   "Month": "2013-10",
+   "NumberOfCrimes": 674154,
+   "AvCrimes": 16.8
+ },
+ {
+   "Month": "2013-11",
+   "NumberOfCrimes": 514146,
+   "AvCrimes": 14.7
+ },
+ {
+   "Month": "2013-12",
+   "NumberOfCrimes": 443942,
+   "AvCrimes": 18.4
+ },
+ {
+   "Month": "2014-01",
+   "NumberOfCrimes": 493870,
+   "AvCrimes": 15.5
+ },
+ {
+   "Month": "2014-02",
+   "NumberOfCrimes": 522940,
+   "AvCrimes": 17.1
+ },
+ {
+   "Month": "2014-03",
+   "NumberOfCrimes": 757864,
+   "AvCrimes": 19.9
+ },
+ {
+   "Month": "2014-04",
+   "NumberOfCrimes": 805571,
+   "AvCrimes": 20.6
+ },
+ {
+   "Month": "2014-05",
+   "NumberOfCrimes": 890709,
+   "AvCrimes": 20.8
+ },
+ {
+   "Month": "2014-06",
+   "NumberOfCrimes": 1052573,
+   "AvCrimes": 21.1
+ },
+ {
+   "Month": "2014-07",
+   "NumberOfCrimes": 1183182,
+   "AvCrimes": 21.6
+ },
+ {
+   "Month": "2014-08",
+   "NumberOfCrimes": 1055206,
+   "AvCrimes": 22.2
+ },
+ {
+   "Month": "2014-09",
+   "NumberOfCrimes": 1058684,
+   "AvCrimes": 19.2
+ },
+ {
+   "Month": "2014-10",
+   "NumberOfCrimes": 907998,
+   "AvCrimes": 17.9
+ },
+ {
+   "Month": "2014-11",
+   "NumberOfCrimes": 715447,
+   "AvCrimes": 16.5
+ },
+ {
+   "Month": "2014-12",
+   "NumberOfCrimes": 579853,
+   "AvCrimes": 18
+ },
+ {
+   "Month": "2015-01",
+   "NumberOfCrimes": 583663,
+   "AvCrimes": 15.3
+ },
+ {
+   "Month": "2015-02",
+   "NumberOfCrimes": 549278,
+   "AvCrimes": 15.3
+ },
+ {
+   "Month": "2015-03",
+   "NumberOfCrimes": 701384,
+   "AvCrimes": 16.6
+ },
+ {
+   "Month": "2015-04",
+   "NumberOfCrimes": 838543,
+   "AvCrimes": 20.1
+ },
+ {
+   "Month": "2015-05",
+   "NumberOfCrimes": 899969,
+   "AvCrimes": 20.7
+ },
+ {
+   "Month": "2015-06",
+   "NumberOfCrimes": 1039768,
+   "AvCrimes": 20.7
+ },
+ {
+   "Month": "2015-07",
+   "NumberOfCrimes": 1134816,
+   "AvCrimes": 22.9
+ },
+ {
+   "Month": "2015-08",
+   "NumberOfCrimes": 1042932,
+   "AvCrimes": 24.1
+ },
+ {
+   "Month": "2015-09",
+   "NumberOfCrimes": 903429,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2015-10",
+   "NumberOfCrimes": 885375,
+   "AvCrimes": 18.6
+ },
+ {
+   "Month": "2015-11",
+   "NumberOfCrimes": 684518,
+   "AvCrimes": 15.9
+ },
+ {
+   "Month": "2015-12",
+   "NumberOfCrimes": 608164,
+   "AvCrimes": 18.1
+ },
+ {
+   "Month": "2016-01",
+   "NumberOfCrimes": 586325,
+   "AvCrimes": 15.6
+ },
+ {
+   "Month": "2016-02",
+   "NumberOfCrimes": 597641,
+   "AvCrimes": 15.5
+ },
+ {
+   "Month": "2016-03",
+   "NumberOfCrimes": 664485,
+   "AvCrimes": 16.8
+ },
+ {
+   "Month": "2016-04",
+   "NumberOfCrimes": 763308,
+   "AvCrimes": 18.5
+ },
+ {
+   "Month": "2016-05",
+   "NumberOfCrimes": 1013666,
+   "AvCrimes": 20.9
+ },
+ {
+   "Month": "2016-06",
+   "NumberOfCrimes": 963232,
+   "AvCrimes": 19.3
+ },
+ {
+   "Month": "2016-07",
+   "NumberOfCrimes": 1188428,
+   "AvCrimes": 22.6
+ },
+ {
+   "Month": "2016-08",
+   "NumberOfCrimes": 1158393,
+   "AvCrimes": 22.5
+ },
+ {
+   "Month": "2016-09",
+   "NumberOfCrimes": 1053039,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2016-10",
+   "NumberOfCrimes": 945143,
+   "AvCrimes": 17.3
+ },
+ {
+   "Month": "2016-11",
+   "NumberOfCrimes": 711002,
+   "AvCrimes": 15.1
+ },
+ {
+   "Month": "2016-12",
+   "NumberOfCrimes": 658975,
+   "AvCrimes": 17.8
+ },
+ {
+   "Month": "2017-01",
+   "NumberOfCrimes": 638491,
+   "AvCrimes": 18.4
+ },
+ {
+   "Month": "2017-02",
+   "NumberOfCrimes": 618550,
+   "AvCrimes": 15.7
+ },
+ {
+   "Month": "2017-03",
+   "NumberOfCrimes": 819752,
+   "AvCrimes": 16.9
+ },
+ {
+   "Month": "2017-04",
+   "NumberOfCrimes": 917716,
+   "AvCrimes": 21
+ },
+ {
+   "Month": "2017-05",
+   "NumberOfCrimes": 992601,
+   "AvCrimes": 20
+ },
+ {
+   "Month": "2017-06",
+   "NumberOfCrimes": 1098294,
+   "AvCrimes": 21
+ },
+ {
+   "Month": "2017-07",
+   "NumberOfCrimes": 1131838,
+   "AvCrimes": 21
+ },
+ {
+   "Month": "2017-08",
+   "NumberOfCrimes": 994199,
+   "AvCrimes": 21.9
+ },
+ {
+   "Month": "2017-09",
+   "NumberOfCrimes": 934751,
+   "AvCrimes": 18.8
+ },
+ {
+   "Month": "2017-10",
+   "NumberOfCrimes": 973682,
+   "AvCrimes": 18
+ },
+ {
+   "Month": "2017-11",
+   "NumberOfCrimes": 792082,
+   "AvCrimes": 16
+ },
+ {
+   "Month": "2017-12",
+   "NumberOfCrimes": 534088,
+   "AvCrimes": 17.4
+ },
+ {
+   "Month": "2018-01",
+   "NumberOfCrimes": 645901,
+   "AvCrimes": 16
+ },
+ {
+   "Month": "2018-02",
+   "NumberOfCrimes": 576425,
+   "AvCrimes": 16
+ },
+ {
+   "Month": "2018-03",
+   "NumberOfCrimes": 604921,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2018-04",
+   "NumberOfCrimes": 824737,
+   "AvCrimes": 20
+ },
+ {
+   "Month": "2018-05",
+   "NumberOfCrimes": 1112686,
+   "AvCrimes": 22
+ },
+ {
+   "Month": "2018-06",
+   "NumberOfCrimes": 1181642,
+   "AvCrimes": 22
+ },
+ {
+   "Month": "2018-07",
+   "NumberOfCrimes": 1253102,
+   "AvCrimes": 23
+ },
+ {
+   "Month": "2018-08",
+   "NumberOfCrimes": 1058181,
+   "AvCrimes": 22
+ },
+ {
+   "Month": "2018-09",
+   "NumberOfCrimes": 1008201,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2018-10",
+   "NumberOfCrimes": 978290,
+   "AvCrimes": 18
+ },
+ {
+   "Month": "2018-11",
+   "NumberOfCrimes": 738024,
+   "AvCrimes": 16
+ },
+ {
+   "Month": "2018-12",
+   "NumberOfCrimes": 585430,
+   "AvCrimes": 18
+ },
+ {
+   "Month": "2019-01",
+   "NumberOfCrimes": 685798,
+   "AvCrimes": 18
+ },
+ {
+   "Month": "2019-02",
+   "NumberOfCrimes": 698917,
+   "AvCrimes": 20
+ },
+ {
+   "Month": "2019-03",
+   "NumberOfCrimes": 792272,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2019-04",
+   "NumberOfCrimes": 890148,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2019-05",
+   "NumberOfCrimes": 1006547,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2019-06",
+   "NumberOfCrimes": 1006434,
+   "AvCrimes": 22
+ },
+ {
+   "Month": "2019-07",
+   "NumberOfCrimes": 1152150,
+   "AvCrimes": 21
+ },
+ {
+   "Month": "2019-08",
+   "NumberOfCrimes": 1053921,
+   "AvCrimes": 22
+ },
+ {
+   "Month": "2019-09",
+   "NumberOfCrimes": 965581,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2019-10",
+   "NumberOfCrimes": 851999,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2019-11",
+   "NumberOfCrimes": 729111,
+   "AvCrimes": 15
+ },
+ {
+   "Month": "2019-12",
+   "NumberOfCrimes": 592077,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2020-01",
+   "NumberOfCrimes": 709673,
+   "AvCrimes": 16
+ },
+ {
+   "Month": "2020-02",
+   "NumberOfCrimes": 641128,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2020-03",
+   "NumberOfCrimes": 553648,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2020-04",
+   "NumberOfCrimes": 591294,
+   "AvCrimes": 36
+ },
+ {
+   "Month": "2020-05",
+   "NumberOfCrimes": 1121435,
+   "AvCrimes": 35
+ },
+ {
+   "Month": "2020-06",
+   "NumberOfCrimes": 1158560,
+   "AvCrimes": 32
+ },
+ {
+   "Month": "2020-07",
+   "NumberOfCrimes": 1170060,
+   "AvCrimes": 26
+ },
+ {
+   "Month": "2020-08",
+   "NumberOfCrimes": 1153276,
+   "AvCrimes": 24
+ },
+ {
+   "Month": "2020-09",
+   "NumberOfCrimes": 1137524,
+   "AvCrimes": 23
+ },
+ {
+   "Month": "2020-10",
+   "NumberOfCrimes": 848233,
+   "AvCrimes": 19
+ },
+ {
+   "Month": "2020-11",
+   "NumberOfCrimes": 760245,
+   "AvCrimes": 23
+ },
+ {
+   "Month": "2020-12",
+   "NumberOfCrimes": 589091,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2021-01",
+   "NumberOfCrimes": 409887,
+   "AvCrimes": 17
+ },
+ {
+   "Month": "2021-02",
+   "NumberOfCrimes": 511046,
+   "AvCrimes": 21
+ },
+ {
+   "Month": "2021-03",
+   "NumberOfCrimes": 748511,
+   "AvCrimes": 26
+ },
+ {
+   "Month": "2021-04",
+   "NumberOfCrimes": 943760,
+   "AvCrimes": 25
+ },
+ {
+   "Month": "2021-05",
+   "NumberOfCrimes": 921988,
+   "AvCrimes": 22
+ },
+ {
+   "Month": "2021-06",
+   "NumberOfCrimes": 1183634,
+   "AvCrimes": 21
+ },
+ {
+   "Month": "2021-07",
+   "NumberOfCrimes": 1168166,
+   "AvCrimes": 21
+ },
+ {
+   "Month": "2021-08",
+   "NumberOfCrimes": 1111134,
+   "AvCrimes": 22
+ },
+ {
+   "Month": "2021-09",
+   "NumberOfCrimes": 1220318,
+   "AvCrimes": 20
+ },
+ {
+   "Month": "2021-10",
+   "NumberOfCrimes": 1110571,
+   "AvCrimes": 18
+ },
+ {
+   "Month": "2021-11",
+   "NumberOfCrimes": 945047,
+   "AvCrimes": 16
+ },
+ {
+   "Month": "2021-12",
+   "NumberOfCrimes": 667202,
+   "AvCrimes": 18
+ }
+]
